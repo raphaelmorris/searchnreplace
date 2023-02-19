@@ -1,0 +1,10 @@
+{
+    "name": "votre-projet",
+    "version": "1.0.0",
+    "description": "Description de votre projet",
+    "main": "index.js",
+    "dependencies": {
+      "csvtojson": "^2.0.10"
+    }
+  }
+  
